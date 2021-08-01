@@ -1,0 +1,24 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  
+}
+.name{
+  margin-bottom: 30px;
+  background-color: black;
+  color: white;
+  width: 43%;
+  text-align: center;
+  margin-bottom: 20px;
+}
+.th_c{
+  color: white;
+  background-color: black;
+}
+.th_name{
+  color: blue;
+  text-align: center;
+  font-weight: bold;
+  font-family: segoe ui;
+
+}
